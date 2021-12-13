@@ -1,4 +1,3 @@
-import LightContainer from './components/LightContainer'
 import CounterContainer from './components/CounterContainer';
 function App() {
   return (
